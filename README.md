@@ -1,11 +1,6 @@
 # Sign-Language-Pridiction
 Sign Language Translator is a machine learning project aims to translate hand gestures to strings. We developed this as a term project of CS 464 Machine Learning course.
-How to use
 
-    Clone the repo: git clone https://github.com/ayberktecimer/Sign_Language_Detector.git && cd Sign_Language_Detector
-    (Optional) Create a virtual environment
-    Install dependencies: pip3 install -r requirements.txt
-    Train models: cd src && python3 Runner.py Models are saved in generatedModels directory
 
 Dataset
 
